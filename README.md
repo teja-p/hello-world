@@ -1,4 +1,16 @@
 # hello-world
 Sample repository
-Hi everyone.
-This is a sample respository creeated to learn about GitHub.
+
+sudo dnf -y update
+
+sudo dnf -y install git
+
+git --version
+
+sudo dnf  -y remove git
+
+
+git config --global user.name "your-username"
+git config --global user.email "your@emailID"
+
+git config --list
