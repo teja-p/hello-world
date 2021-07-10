@@ -9,7 +9,7 @@ git --version
 
 sudo dnf  -y remove git
 
-
+# git set up
 git config --global user.name "your-username"
 git config --global user.email "your@emailID"
 
